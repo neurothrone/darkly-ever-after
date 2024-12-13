@@ -28,7 +28,7 @@ To set up the project, follow these steps:
 4. **Run the application:**
     ```sh
     python main.py
-    29:    ```
+    ```
 
 5. **Create a `.env` file with your OpenAI API key:**
     ```
